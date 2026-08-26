@@ -1,16 +1,19 @@
-## Hi there 👋
+🛠️ Texnik ko'nikmalar & Texnologiyalar
+Dasturlash: Python
 
-<!--
-**robbitfargona-bit/robbitfargona-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mikrokontrollerlar & Elektronika: Arduino, ESP32, Tinkercad
 
-Here are some ideas to get you started:
+Dizayn & Visual: Canva, Grafik dizayn, Animatsiya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Media: Video yaratish va montaj
+
+🚀 Qiziqishlarim va Yo'nalishlarim
+IoT va Robototexnika: ESP32 va Arduino yordamida aqlli qurilmalar va sxemalar yaratish.
+
+Dasturlash: Python yordamida mantiqiy loyihalar va avtomatlashtirish.
+
+Kreativ Media: Vizual kontent, animatsiyalar va dizayn orqali g'oyalarni taqdim etish.
+
+📫 Men bilan bog'lanish
+
+Email: robbitfergana@gmail.com
