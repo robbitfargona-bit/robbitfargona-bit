@@ -25,3 +25,5 @@ Menga murojaat qilishingiz mumkin: Arduino, ESP32, Python va dizayn loyihalari b
 📫 Men bilan bog'lanish
 
 Email: robbitfergana@gmail.com
+
+robbitfargona-bit/README.md
